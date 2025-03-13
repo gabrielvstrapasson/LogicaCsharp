@@ -1,0 +1,15 @@
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\Calculator\obj\Debug\net9.0\ref\Calculator.dll
