@@ -1,0 +1,15 @@
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.AssemblyInfo.cs
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.sourcelink.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.exe
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.deps.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.runtimeconfig.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.pdb
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\refint\NumerosPrimos.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.pdb
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.genruntimeconfig.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\NumerosPrimos\obj\Debug\net9.0\ref\NumerosPrimos.dll

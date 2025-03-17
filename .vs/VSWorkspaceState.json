@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ParOuImpar",
-    "\\Stopwatch",
+    "\\NumerosPrimos",
     "\\Tabuada"
   ],
-  "SelectedNode": "\\Tabuada\\Program.cs",
+  "SelectedNode": "\\NumerosPrimos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
