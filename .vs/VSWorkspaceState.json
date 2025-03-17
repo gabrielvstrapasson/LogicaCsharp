@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ParOuImpar",
     "\\Stopwatch"
   ],
-  "SelectedNode": "\\Stopwatch\\Program.cs",
+  "SelectedNode": "\\ParOuImpar\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

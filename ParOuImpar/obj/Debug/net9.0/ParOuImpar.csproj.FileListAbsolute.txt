@@ -1,0 +1,15 @@
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.sourcelink.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\bin\Debug\net9.0\ParOuImpar.exe
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\bin\Debug\net9.0\ParOuImpar.deps.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\bin\Debug\net9.0\ParOuImpar.runtimeconfig.json
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\bin\Debug\net9.0\ParOuImpar.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\bin\Debug\net9.0\ParOuImpar.pdb
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\refint\ParOuImpar.dll
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.pdb
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\suporte\Music\Gabriel\LogicaCsharp\ParOuImpar\obj\Debug\net9.0\ref\ParOuImpar.dll
