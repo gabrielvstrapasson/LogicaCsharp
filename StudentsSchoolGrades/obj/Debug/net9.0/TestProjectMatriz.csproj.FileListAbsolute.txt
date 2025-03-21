@@ -1,0 +1,14 @@
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\bin\Debug\net9.0\TestProjectMatriz.exe
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\bin\Debug\net9.0\TestProjectMatriz.deps.json
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\bin\Debug\net9.0\TestProjectMatriz.runtimeconfig.json
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\bin\Debug\net9.0\TestProjectMatriz.dll
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\bin\Debug\net9.0\TestProjectMatriz.pdb
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.AssemblyInfoInputs.cache
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.AssemblyInfo.cs
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.dll
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\refint\TestProjectMatriz.dll
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.pdb
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\TestProjectMatriz.genruntimeconfig.cache
+C:\Users\suporte\Music\Gabriel\ProjectsMicrosoft\TestProjectMatriz\obj\Debug\net9.0\ref\TestProjectMatriz.dll
