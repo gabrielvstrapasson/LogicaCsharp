@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\bin\Debug\net8.0\Area-Piramide.exe
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\bin\Debug\net8.0\Area-Piramide.deps.json
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\bin\Debug\net8.0\Area-Piramide.runtimeconfig.json
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\bin\Debug\net8.0\Area-Piramide.dll
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\bin\Debug\net8.0\Area-Piramide.pdb
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.sourcelink.json
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.dll
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\refint\Area-Piramide.dll
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.pdb
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\Area-Piramide.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Area-Piramide\Area-Piramide\obj\Debug\net8.0\ref\Area-Piramide.dll
