@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.sourcelink.json
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\bin\Debug\net8.0\Sequencia-Fatorial.exe
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\bin\Debug\net8.0\Sequencia-Fatorial.deps.json
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\bin\Debug\net8.0\Sequencia-Fatorial.runtimeconfig.json
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\bin\Debug\net8.0\Sequencia-Fatorial.dll
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\bin\Debug\net8.0\Sequencia-Fatorial.pdb
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.dll
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\refint\Sequencia-Fatorial.dll
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.pdb
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\Sequencia-Fatorial.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\C#\LogicaCsharp\Sequencia-Fatorial\Sequencia-Fatorial\obj\Debug\net8.0\ref\Sequencia-Fatorial.dll
