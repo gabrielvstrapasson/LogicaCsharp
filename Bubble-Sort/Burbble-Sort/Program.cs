@@ -65,6 +65,11 @@
                         VerificadorFlag |= true;
                     }
                 }
+                if (!VerificadorFlag)
+                {
+                    Console.WriteLine("A lista estava ordenada.");
+                    break;
+                }
             }
         }
         
@@ -83,6 +88,11 @@
                         numeros[j] = aux;
                         VerificadorFlag |= true;
                     }
+                }
+                if (!VerificadorFlag)
+                {
+                    Console.WriteLine("A lista estava ordenada.");
+                    break;
                 }
             }
         }
