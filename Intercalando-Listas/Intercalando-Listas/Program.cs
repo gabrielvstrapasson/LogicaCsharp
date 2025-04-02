@@ -9,7 +9,7 @@
 
             List<int> intercalandoLista = new List<int>();
 
-            int numerosInteiros = 5;
+            int numerosInteiros = 80;
 
             Console.Clear();
 
