@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Intercalando-Listas/1.0.0": {
+        "runtime": {
+          "Intercalando-Listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Intercalando-Listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

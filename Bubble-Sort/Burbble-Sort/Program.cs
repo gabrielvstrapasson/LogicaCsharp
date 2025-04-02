@@ -1,4 +1,4 @@
-﻿namespace Burbble_Sort
+﻿namespace Bubble_Sort
 {
     internal class Program
     {

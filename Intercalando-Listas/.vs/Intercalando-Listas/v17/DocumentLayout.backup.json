@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6652DF0F-B4DB-46FC-A66F-712A2A126168}|Intercalando-Listas\\Intercalando-Listas.csproj|c:\\users\\gabriel\\documents\\c#\\provabne\\intercalando-listas\\intercalando-listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6652DF0F-B4DB-46FC-A66F-712A2A126168}|Intercalando-Listas\\Intercalando-Listas.csproj|solutionrelative:intercalando-listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Intercalando-Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\Program.cs",
+              "RelativeToolTip": "Intercalando-Listas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T00:35:59.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
