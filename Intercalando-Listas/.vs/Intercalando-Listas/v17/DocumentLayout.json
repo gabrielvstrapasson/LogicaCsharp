@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6652DF0F-B4DB-46FC-A66F-712A2A126168}|Intercalando-Listas\\Intercalando-Listas.csproj|c:\\users\\gabriel\\documents\\c#\\provabne\\intercalando-listas\\intercalando-listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6652DF0F-B4DB-46FC-A66F-712A2A126168}|Intercalando-Listas\\Intercalando-Listas.csproj|solutionrelative:intercalando-listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\Intercalando-Listas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intercalando-Listas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\Intercalando-Listas\\Program.cs",
               "RelativeDocumentMoniker": "Intercalando-Listas\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\Intercalando-Listas\\Program.cs",
               "RelativeToolTip": "Intercalando-Listas\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAYwDoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T00:35:59.766Z",
               "EditorCaption": ""

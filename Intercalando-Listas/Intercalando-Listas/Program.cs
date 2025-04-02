@@ -9,7 +9,7 @@
 
             List<int> intercalandoLista = new List<int>();
 
-            int numerosInteiros = 80;
+            int numerosInteiros = 3;
 
             Console.Clear();
 
@@ -69,6 +69,17 @@
             {
                 Console.Write(numero + " ");
             }
+
+            int soma = 0;
+
+            foreach (int numero in intercalandoLista)
+            {
+                soma += numero;
+            }
+
+            double media = soma / (double)intercalandoLista.Count;
+
+            Console.WriteLine($"\nA média de valores da lista intercalada é {media}");
 
 
         }

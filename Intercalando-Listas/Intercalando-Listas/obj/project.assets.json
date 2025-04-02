@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\Intercalando-Listas.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\Intercalando-Listas\\Intercalando-Listas.csproj",
       "projectName": "Intercalando-Listas",
-      "projectPath": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\Intercalando-Listas.csproj",
+      "projectPath": "C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\Intercalando-Listas\\Intercalando-Listas.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Documents\\C#\\ProvaBNE\\Intercalando-Listas\\Intercalando-Listas\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\Documents\\C#\\LogicaCsharp\\Intercalando-Listas\\Intercalando-Listas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
