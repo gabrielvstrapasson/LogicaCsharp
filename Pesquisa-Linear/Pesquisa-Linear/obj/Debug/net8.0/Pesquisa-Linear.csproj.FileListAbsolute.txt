@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\bin\Debug\net8.0\Pesquisa-Linear.exe
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\bin\Debug\net8.0\Pesquisa-Linear.deps.json
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\bin\Debug\net8.0\Pesquisa-Linear.runtimeconfig.json
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\bin\Debug\net8.0\Pesquisa-Linear.dll
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\bin\Debug\net8.0\Pesquisa-Linear.pdb
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.dll
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\refint\Pesquisa-Linear.dll
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.pdb
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\Pesquisa-Linear.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\C#\ProvaBNE\Pesquisa-Linear\Pesquisa-Linear\obj\Debug\net8.0\ref\Pesquisa-Linear.dll
