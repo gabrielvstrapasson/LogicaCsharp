@@ -1,0 +1,14 @@
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\bin\Debug\net8.0\LoginUsandoDicionario.exe
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\bin\Debug\net8.0\LoginUsandoDicionario.deps.json
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\bin\Debug\net8.0\LoginUsandoDicionario.runtimeconfig.json
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\bin\Debug\net8.0\LoginUsandoDicionario.dll
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\bin\Debug\net8.0\LoginUsandoDicionario.pdb
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.AssemblyInfoInputs.cache
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.AssemblyInfo.cs
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.dll
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\refint\LoginUsandoDicionario.dll
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.pdb
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\LoginUsandoDicionario.genruntimeconfig.cache
+C:\Users\suporte\Music\Gabriel\LoginUsandoDicionario\LoginUsandoDicionario\obj\Debug\net8.0\ref\LoginUsandoDicionario.dll

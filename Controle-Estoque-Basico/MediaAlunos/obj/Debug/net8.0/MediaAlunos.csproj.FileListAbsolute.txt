@@ -1,0 +1,14 @@
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\bin\Debug\net8.0\MediaAlunos.exe
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\bin\Debug\net8.0\MediaAlunos.deps.json
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\bin\Debug\net8.0\MediaAlunos.runtimeconfig.json
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\bin\Debug\net8.0\MediaAlunos.dll
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\bin\Debug\net8.0\MediaAlunos.pdb
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.AssemblyInfoInputs.cache
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.AssemblyInfo.cs
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.dll
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\refint\MediaAlunos.dll
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.pdb
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\MediaAlunos.genruntimeconfig.cache
+C:\Users\suporte\Music\Gabriel\MediaAlunos\MediaAlunos\obj\Debug\net8.0\ref\MediaAlunos.dll
